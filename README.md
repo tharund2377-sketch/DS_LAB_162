@@ -310,7 +310,7 @@ Upon completing and studying these experiments, one will develop practical maste
 
 ## Author & Academic Purpose
 
-- **Author:** Thamizh Selvan
+- **Author:** THARUN D
 - **Department:** Computer Science & Engineering
 - **Purpose:** Data Structures & Algorithms Laboratory coursework, practical exam preparation, and reference.
 - **License:** Educational and open academic use.
